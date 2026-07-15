@@ -1,0 +1,63 @@
+Original_Emotion,Target_Emotion,Reason
+admiration,Confident,Positive appreciation
+amusement,Confident,Positive emotion
+approval,Confident,Positive reinforcement
+caring,Confident,Supportive attitude
+excitement,Confident,High motivation
+gratitude,Confident,Positive feeling
+joy,Confident,Happiness and success
+love,Confident,Positive emotion
+optimism,Confident,Positive expectation
+pride,Confident,Achievement
+relief,Confident,Problem resolved
+confident,Confident,Direct match
+hopeful,Confident,Positive expectation
+grateful,Confident,Positive emotion
+joyful,Confident,Positive emotion
+impressed,Confident,Positive experience
+faithful,Confident,Trust and confidence
+trusting,Confident,Trust
+content,Confident,Satisfied
+excited,Confident,Enthusiasm
+
+confusion,Confused,Direct match
+fear,Confused,Fear of understanding
+nervousness,Confused,Uncertainty
+realization,Confused,Understanding after confusion
+afraid,Confused,Fear while learning
+anxious,Confused,Learning anxiety
+apprehensive,Confused,Uncertainty
+
+curiosity,Curious,Direct match
+desire,Curious,Wants to know
+surprise,Curious,Unexpected information
+anticipating,Curious,Eager to know
+surprised,Curious,Unexpected event
+
+anger,Frustrated,Negative emotion
+annoyance,Frustrated,Frustration
+disappointment,Frustrated,Expectation failed
+disapproval,Frustrated,Negative response
+disgust,Frustrated,Negative emotion
+embarrassment,Frustrated,Negative feeling
+grief,Frustrated,Emotional distress
+remorse,Frustrated,Regret
+sadness,Frustrated,Negative emotion
+angry,Frustrated,Direct frustration
+annoyed,Frustrated,Direct frustration
+furious,Frustrated,Extreme frustration
+disgusted,Frustrated,Negative reaction
+disappointed,Frustrated,Expectation failed
+devastated,Frustrated,Extreme disappointment
+embarrassed,Frustrated,Negative emotion
+guilty,Frustrated,Negative feeling
+ashamed,Frustrated,Negative feeling
+jealous,Frustrated,Negative comparison
+lonely,Frustrated,Negative emotion
+sad,Frustrated,Negative emotion
+sentimental,Frustrated,Emotionally affected
+terrified,Frustrated,Extreme fear
+
+neutral,Bored,No emotional engagement
+nostalgic,Bored,Looking backward
+prepared,Bored,Neutral readiness

@@ -1,0 +1,17 @@
+text,emotion,confidence,response,field,timestamp
+I am frustrated with neural networks.,Frustrated,0.96,Let's solve it together.,Machine Learning,2026-07-15T10:14:20.913256
+i like data Science,Bored,0.6598,"Hey there! I hear you're feeling a bit bored, but it's awesome that you love Data Science!
+
+**Learning Tip:** Since you like data science, try applying your Computer Science skills to a real-world dataset – perhaps by building a small predictive model or creating an interactive data visualization. This can make learning very engaging!
+
+**Next Step:** Pick a small, interesting dataset from a source like Kaggle or an open data portal, and just start exploring it with Python or R. You might discover something really cool!",Computer Science,2026-07-15T13:00:06.099359
+you are too lazy,Bored,0.4503,"Hey there! I hear you're feeling a bit bored, but it's awesome that you love Data Science!
+
+**Learning Tip:** Since you like data science, try applying your Computer Science skills to a real-world dataset – perhaps by building a small predictive model or creating an interactive data visualization. This can make learning very engaging!
+
+**Next Step:** Pick a small, interesting dataset from a source like Kaggle or an open data portal, and just start exploring it with Python or R. You might discover something really cool!",Computer Science,2026-07-15T15:29:29.776238
+you are too lazy,Bored,0.4503,"Hey there! I hear you're feeling a bit bored, and it sounds like you're identifying it as laziness. It's totally normal to hit those moments when motivation dips in your studies.
+
+For Computer Science, sometimes boredom comes from not seeing the immediate application. Try finding a small, personal project that uses a concept you're learning. Building something, even simple, can be incredibly engaging!
+
+How about you spend just 15 minutes today brainstorming a fun, tiny project idea? No coding required, just imagination!",Computer Science,2026-07-15T15:29:54.361681

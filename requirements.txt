@@ -1,0 +1,14 @@
+streamlit
+tensorflow
+keras
+torch
+transformers
+sentencepiece
+nltk
+pandas
+numpy
+plotly
+scikit-learn
+google-generativeai
+python-dotenv
+matplotlib
